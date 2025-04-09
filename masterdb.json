@@ -1,0 +1,42 @@
+{
+  "sets": [
+    {
+      "ID": "default",
+      "Title": "New Set default",
+      "Publisher": "",
+      "Year": 2025,
+      "Platform": "",
+      "Category": "",
+      "Description": "",
+      "CoverImage": "",
+      "CreatedDate": "4/9/2025 11:45:15 AM",
+      "LastModified": "4/9/2025 11:45:15 AM",
+      "Tags": [],
+      "Disks": [
+        {
+          "DiskNumber": 0,
+          "DiskLabel": "Disk Disk01.img",
+          "FileName": "Disk01.img",
+          "CRC32": "B962FFE2",
+          "SHA1": "",
+          "Notes": "",
+          "ImagePath": "E:\\Disk Images\\DOS Disk Images\\Microsoft Windows 3.1\\Disk01.img",
+          "CreatedDate": "4/9/2025 11:45:15 AM",
+          "LastModified": "4/9/2025 11:45:15 AM",
+          "PublicationDate": "",
+          "Language": "",
+          "Genre": "",
+          "Theme": "",
+          "Format": "",
+          "MediaType": "",
+          "Status": "",
+          "Contributor": "",
+          "Identifier": "",
+          "Source": "",
+          "AddedDate": "4/9/2025 11:45:15 AM",
+          "ScannerInfo": ""
+        }
+      ]
+    }
+  ]
+}
