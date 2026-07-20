@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddf400a0-4045-4623-acec-94da2518db44"
+  <img src="https://github.com/user-attachments/assets/e9cd5054-f2ba-4c0a-8856-b0c56a14478b"
        alt="DisketteBox logo"
-       width="150">
+       width="320">
 </p>
 
 # DisketteBox
 
-**A Windows floppy-image organizer that treats a software set as a set—not as a pile of anonymous `.img` files.**
+**A Windows floppy-image organizer that treats a software set as a set, not as a pile of anonymous `.img` files.**
 
 DisketteBox is a Delphi application for cataloging, inspecting, mounting, reading, and eventually writing floppy-disk images. The goal is to make a digital collection behave more like the physical diskette boxes it replaced: grouped, labeled, searchable, and available on demand.
 
