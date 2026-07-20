@@ -10,11 +10,8 @@ This folder contains screenshots, diagnostic captures, and photographs used by t
 - What result did the test produce?
 - What does a successful or failed operation look like?
 
-## Current image
-
-### `usb-floppy-track-read-1440k.png`
-
-XX
+## Image of the Day
+<img width="1280" height="696" alt="Screenshot 2026-07-20 050817" src="https://github.com/user-attachments/assets/731b482d-f6ee-4fde-ba6c-6294311153ec" />
 
 Standalone SPTI validation against an SMSC-based Samsung `USB FDC`.
 
